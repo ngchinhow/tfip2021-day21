@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'somerandomproject';
+  title = "Shhhhh...he's sleeping";
+  imagePath = 'assets/images/sleeping_cat.jpg';
 }
